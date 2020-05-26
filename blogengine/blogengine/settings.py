@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'blog'  #Важно не забыть подключить апп blog. Видео №2 12:57
 ]
 
 MIDDLEWARE = [
